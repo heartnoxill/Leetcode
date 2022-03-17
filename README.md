@@ -21,3 +21,8 @@ Leetcode Repository of Heart
 |Leetcode|Python Code|Difficulty
 |---|---|---
 |[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[14-Longest-Common-Prefix](https://github.com/heartnoxill/Leetcode/blob/main/Code/14-Longest-Common-Prefix.py)|Easy
+
+### 5. Stack
+|Leetcode|Python Code|Difficulty
+|---|---|---
+|[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[20-Valid-Parentheses](https://github.com/heartnoxill/Leetcode/blob/main/Code/20-Valid-Parentheses.py)|Easy
