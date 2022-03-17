@@ -15,3 +15,4 @@ Leetcode Repository of Heart
 |Leetcode|Python Code|Difficulty
 |---|---|---
 |[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[9-Palindrome-Number](https://github.com/heartnoxill/Leetcode/blob/main/Code/9-Palindrome-Number.py)|Easy
+|[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[13-Roman-to-Integer](https://github.com/heartnoxill/Leetcode/blob/main/Code/13-Roman-to-Integer.py)|Easy
