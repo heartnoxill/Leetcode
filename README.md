@@ -35,5 +35,5 @@ Leetcode Repository of Heart
 |[177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[177-Nth-Highest-Salary](https://github.com/heartnoxill/Leetcode/blob/main/Code/177-Nth-Highest-Salary.sql)|Medium
 |[178. Rank Scores](https://leetcode.com/problems/rank-scores/)|[178-Rank-Scores](https://github.com/heartnoxill/Leetcode/blob/main/Code/178-Rank-Scores.sql)|Medium
 |[180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[180-Consecutive-Numbers](https://github.com/heartnoxill/Leetcode/blob/main/Code/180-Consecutive-Numbers.sql)|Medium
-
+|[181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[181-Employees-Earning-More-Than-Their-Managers](https://github.com/heartnoxill/Leetcode/blob/main/Code/181-Employees-Earning-More-Than-Their-Managers.sql)|Easy
 
