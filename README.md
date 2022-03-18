@@ -33,4 +33,7 @@ Leetcode Repository of Heart
 |[175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[175-Combine-Two-Tables](https://github.com/heartnoxill/Leetcode/blob/main/Code/175-Combine-Two-Tables.sql)|Easy
 |[176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[176-Second-Highest-Salary](https://github.com/heartnoxill/Leetcode/blob/main/Code/176-Second-Highest-Salary.sql)|Medium
 |[177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[177-Nth-Highest-Salary](https://github.com/heartnoxill/Leetcode/blob/main/Code/177-Nth-Highest-Salary.sql)|Medium
+|[178. Rank Scores])(https://leetcode.com/problems/rank-scores/)|[178-Rank-Scores](https://github.com/heartnoxill/Leetcode/blob/main/Code/178-Rank-Scores.sql)|Medium
+
+
 
