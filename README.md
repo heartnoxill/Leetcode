@@ -34,6 +34,6 @@ Leetcode Repository of Heart
 |[176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[176-Second-Highest-Salary](https://github.com/heartnoxill/Leetcode/blob/main/Code/176-Second-Highest-Salary.sql)|Medium
 |[177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[177-Nth-Highest-Salary](https://github.com/heartnoxill/Leetcode/blob/main/Code/177-Nth-Highest-Salary.sql)|Medium
 |[178. Rank Scores](https://leetcode.com/problems/rank-scores/)|[178-Rank-Scores](https://github.com/heartnoxill/Leetcode/blob/main/Code/178-Rank-Scores.sql)|Medium
-
+|[180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[180-Consecutive-Numbers](https://github.com/heartnoxill/Leetcode/blob/main/Code/180-Consecutive-Numbers.sql)|Medium
 
 
