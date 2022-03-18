@@ -37,3 +37,4 @@ Leetcode Repository of Heart
 |[180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[180-Consecutive-Numbers](https://github.com/heartnoxill/Leetcode/blob/main/Code/180-Consecutive-Numbers.sql)|Medium
 |[181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[181-Employees-Earning-More-Than-Their-Managers](https://github.com/heartnoxill/Leetcode/blob/main/Code/181-Employees-Earning-More-Than-Their-Managers.sql)|Easy
 |[182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[182-Duplicate-Emails](https://github.com/heartnoxill/Leetcode/blob/main/Code/182-Duplicate-Emails.sql)|Easy
+|[183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[183-Customers-Who-Never-Order](https://github.com/heartnoxill/Leetcode/blob/main/Code/183-Customers-Who-Never-Order.sql)|Easy
