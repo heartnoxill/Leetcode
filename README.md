@@ -26,3 +26,8 @@ Leetcode Repository of Heart
 |Leetcode|Python Code|Difficulty
 |---|---|---
 |[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[20-Valid-Parentheses](https://github.com/heartnoxill/Leetcode/blob/main/Code/20-Valid-Parentheses.py)|Easy
+
+### Database
+|Leetcode|SQL Code|Difficulty
+|---|---|---
+|[175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[175-Combine-Two-Tables](https://github.com/heartnoxill/Leetcode/blob/main/Code/175-Combine-Two-Tables.sql)|Easy
