@@ -31,3 +31,4 @@ Leetcode Repository of Heart
 |Leetcode|SQL Code|Difficulty
 |---|---|---
 |[175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[175-Combine-Two-Tables](https://github.com/heartnoxill/Leetcode/blob/main/Code/175-Combine-Two-Tables.sql)|Easy
+|[176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[176-Second-Highest-Salary](https://github.com/heartnoxill/Leetcode/blob/main/Code/176-Second-Highest-Salary.sql)|Medium
